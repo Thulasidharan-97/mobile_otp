@@ -1,0 +1,18 @@
+h1{
+    background-color: chartreuse;
+    color: black;
+    text-align: center;
+    border-radius: 25px;
+}
+img{
+    margin-left: 250px;
+    margin-top: 50px;
+}
+marquee{
+    background-color: black;
+    color:wheat;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 20px;
+}
+  
